@@ -1,0 +1,33 @@
+body, html, main {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	
+}
+
+nav li {
+ 
+}
+ 
+.bg_fixed {
+  height: 50vh;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-opacity: 0.3;
+}
+
+ 
+.home {
+   background-image: url("../img/red.jpg");
+}
+.about {
+   background-image: url("../img/blue.jpg");
+}
+.contact {
+   background-image: url("../img/red.jpg");
+}
+.stuff{
+   background-image: url("../img/blue.jpg");
+ }
